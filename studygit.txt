@@ -11,3 +11,4 @@
 >>>>>>> parent of ab8c7d1... 学习 git 第七天
 修复了第二个 bug——bug2。
 修复了第二个 bug——bug4。
+修复了第二个 bug——bug5。
